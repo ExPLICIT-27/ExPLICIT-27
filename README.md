@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Currently working on **[Flower Classification Model](https://flowerclassifier.streamlit.app/)**
+- 🔭 Currently working on **[Stock Price Prediction Model]([https://flowerclassifier.streamlit.app](https://github.com/ExPLICIT-27/Stock_Price_Predictor)/)**
 - 🌱 Learning **Machine Learning, Neural Networks, Generative AI**
 - 👨‍💻 All projects available at **[GitHub](https://github.com/ExPLICIT-27)**
 - 📫 Reach me at **nandumahesh2004@gmail.com**
